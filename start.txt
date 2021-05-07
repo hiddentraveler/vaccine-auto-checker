@@ -1,0 +1,1 @@
+while sleep 600 ; do ./cov.sh ; done &
